@@ -104,7 +104,7 @@ lime==0.1.1.29
 line-profiler==2.1.2
 llvmlite==0.15.0
 locket==0.2.0
-lxml==3.7.2
+lxml==4.6.2
 Markdown==2.6.10
 MarkupSafe==1.1.0
 matplotlib==2.2.2
