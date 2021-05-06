@@ -57,7 +57,7 @@ feedfinder2==0.0.4
 feedparser==5.2.1
 flake8==3.3.0
 Flask==1.0.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 ftfy==4.4.3
 future==0.16.0
 fuzzywuzzy==0.17.0
