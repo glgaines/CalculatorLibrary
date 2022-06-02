@@ -70,7 +70,7 @@ gunicorn==19.9.0
 h5py==2.7.1
 HeapDict==1.0.0
 holoviews==1.10.5
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 ijson==2.3
 image==1.5.5
