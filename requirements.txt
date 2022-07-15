@@ -42,7 +42,7 @@ datashape==0.5.4
 decorator==4.3.0
 defusedxml==0.5.0
 dill==0.2.7.1
-distributed==1.22.0
+distributed==2021.10.0
 Django==1.11
 docutils==0.13.1
 editdistance==0.5.2
